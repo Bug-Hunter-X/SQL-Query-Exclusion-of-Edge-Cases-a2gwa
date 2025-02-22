@@ -1,0 +1,1 @@
+This repository contains an example of an uncommon SQL bug related to edge case exclusion when using comparison operators. The bug demonstrates how using only the '>' operator in a WHERE clause can lead to unexpected results.  The solution demonstrates a more robust approach that handles edge cases effectively.
